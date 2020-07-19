@@ -16,3 +16,9 @@ If you want to know how to use callback function you can check in [index.js](./i
 `Telegram - WhiteGrim_Nulled`
 
 `Discord - White2001#0530`
+
+## Status regarding grimauth fucntion
+* Status - `-2` -> GrimAuth is Down
+* Status - `-1` -> Invalid Auth Key
+* Status - `0` -> Valid Auth But not a premium user
+* Status - `1` -> Valid Auth and user is premium
