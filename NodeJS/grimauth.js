@@ -1,4 +1,3 @@
-```javascript
 //To Check Premium+ Auth
 
 const fetch = require('node-fetch'); // Needed for a Request
@@ -43,4 +42,3 @@ module.exports = {
             }
     }
 }
-```
