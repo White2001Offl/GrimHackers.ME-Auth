@@ -17,7 +17,7 @@ If you want to know how to use callback function you can check in [index.js](./i
 
 `Discord - White2001#0530`
 
-## Status regarding grimauth fucntion
+## Status regarding grimauth function
 * Status - `-2` -> GrimAuth is Down
 * Status - `-1` -> Invalid Auth Key
 * Status - `0` -> Valid Auth But not a premium user
